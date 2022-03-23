@@ -1,0 +1,85 @@
+
+
+.header {
+    min-height: auto;
+    width: 50%;
+    color: blue;
+    font-style: italic; 
+
+    background-size: cover;
+}
+.head {
+min-height: 24%;
+width: 50%;
+color: pink;
+font-style: italic;
+align-items: center;
+}
+.f {
+    align-items:right;
+    height: auto;
+}
+.nav {
+    display:flex;
+    padding: 2%  7%;
+    justify-content: space-between;
+    align-items: center;
+}
+li {
+   font-size: 48px;
+    
+}
+
+.rightNav
+{
+    justify-items: flex-end;
+}
+.nav img {
+    width:300px;
+}
+.nav-links ul {
+   
+    flex:1;
+  
+    text-align:right;
+}
+.nav-links ul li {
+    list-style: none;
+    display: inline;
+    padding:9px  15px;
+   position: relative;
+}
+
+.nav links ul li a {
+    list-style: none;
+    display: inline;
+    font-size:23px;
+
+}
+.course {
+    width:50%;
+    align-items: center;
+    margin:auto;
+    color: green;
+    font-size: larger;
+}
+h1 {
+    font-size: 45 px;
+    color:turquoise;
+}
+p {
+
+    color: purple;
+    font-size: 23px;
+    font-weight: 200;
+    padding:15 px;
+}
+.facilities {
+    
+        width:50%;
+        align-items: center;
+        margin:auto;
+        color: goldenrod;
+        font-size: larger;
+    }
+    
